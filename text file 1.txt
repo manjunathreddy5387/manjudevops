@@ -1,0 +1,25 @@
+C:\Users\reddy>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   IPv6 Address. . . . . . . . . . . : 2405:204:528f:8e16:d9da:ea53:6e1f:5cc1
+   Temporary IPv6 Address. . . . . . : 2405:204:528f:8e16:a905:eab5:1ccd:44b2
+   Link-local IPv6 Address . . . . . : fe80::d9da:ea53:6e1f:5cc1%17
+   IPv4 Address. . . . . . . . . . . : 192.168.47.253
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::e0b9:91ff:fe5b:cf4b%17
+                                       192.168.47.118
